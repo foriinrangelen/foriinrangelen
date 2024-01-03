@@ -1,6 +1,7 @@
 
 <div align="center" >
-  <img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=250&section=header&text=foriinrangelen&nbsp;gitHub&fontSize=50" />
+<!--   <img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=250&section=header&text=foriinrangelen&nbsp;gitHub&fontSize=50" /> -->
+  <img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=250&section=header&fontSize=50" />
        <h3>✏️  programmingLanguages</h3>
   <img src="https://img.shields.io/badge/Python-336d9d?style=flat-square&logo=Python&logoColor=white" />
     <img src="https://img.shields.io/badge/JavaScript-f0d81e?style=flat-square&logo=JavaScript&logoColor=white" />
@@ -16,8 +17,9 @@
 
 
    <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=footer" />
+   
 </div>
-
+ ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=foriinrangelen)
 <!--
 <div align="center" >
   <img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=250&section=header&text=KIMKIM&fontSize=50" />
