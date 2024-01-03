@@ -12,7 +12,8 @@
   <img src="https://img.shields.io/badge/Oracle-f00000?style=flat-square&logo=Oracle&logoColor=white" />
   <img src="https://img.shields.io/badge/Mysql-00718b?style=flat-square&logo=Mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-66ab3e?style=flat-square&logo=MongoDB&logoColor=white" />
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=footer" />
+    <img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=250&section=footer" />
+<!--   <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=footer" /> -->
   
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=foriinrangelen)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=foriinrangelen&layout=compact)
