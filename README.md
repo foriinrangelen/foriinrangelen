@@ -28,7 +28,7 @@
     <img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=200&section=footer" /> 
 <!--   <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=footer" /> -->
   
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=foriinrangelen)
+<!--![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=foriinrangelen)-->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=foriinrangelen&layout=compact)
 
 </div>
