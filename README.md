@@ -18,7 +18,7 @@
 
 ### Tools
 [![My Skills](https://skillicons.dev/icons?i=git,github,notion,vscode)](https://skillicons.dev)
-
+---
 
 
 
