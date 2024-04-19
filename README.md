@@ -5,7 +5,7 @@
 ### Languages
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css&theme=light)](https://skillicons.dev)
 <br/>
-### FrameWorks
+### Frameworks
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,nestjs,react&theme=light)](https://skillicons.dev)
 <br/>
 ### Infra
