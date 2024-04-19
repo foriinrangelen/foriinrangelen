@@ -1,6 +1,6 @@
 
 
-## ✅STACKS
+# STACKS
 
 ### Languages
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css&theme=light)](https://skillicons.dev)
