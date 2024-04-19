@@ -7,7 +7,7 @@
 <br/>
 ### Frameworks
 [![My Skills](https://skillicons.dev/icons?i=nodejs&theme=light)](https://skillicons.dev)
-[![OpenAI Logo](https://velog.velcdn.com/images/for_i_in_range/post/d737632a-5018-40b5-80a1-fb745f6099e6/image.png)](https://www.openai.com)
+[![OpenAI Logo](https://velog.velcdn.com/images/for_i_in_range/post/4704b07e-a588-4fc3-a764-421f17d28a92/image.png)](https://www.openai.com)
 [![My Skills](https://skillicons.dev/icons?i=express,nestjs,react&theme=light)](https://skillicons.dev)
 <br/>
 ### Infra
