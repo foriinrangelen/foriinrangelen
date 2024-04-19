@@ -9,7 +9,8 @@
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,nestjs,react&theme=light)](https://skillicons.dev)
 <br/>
 ### Infra
-[![My Skills](https://skillicons.dev/icons?i=aws,cloudflare,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,cloudflare&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux)](https://skillicons.dev)
 <br/>
 ### DB
 [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb&theme=light)](https://skillicons.dev)
