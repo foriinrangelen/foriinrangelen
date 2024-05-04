@@ -10,11 +10,11 @@
 [![My Skills](https://skillicons.dev/icons?i=express,nestjs,react)](https://skillicons.dev)
 
 ### Infra
-[![My Skills](https://skillicons.dev/icons?i=aws,cloudflare&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,cloudflare,docker&theme=light)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=linux)](https://skillicons.dev)
 
 ### DB
-[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=light)](https://skillicons.dev)
 
 ### Tools
 [![My Skills](https://skillicons.dev/icons?i=git,github,notion,vscode)](https://skillicons.dev)
