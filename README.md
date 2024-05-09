@@ -18,8 +18,6 @@
 ### Tools
 [![My Skills](https://skillicons.dev/icons?i=git,github,notion,vscode)](https://skillicons.dev)
 
-<div align="right"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=foriinrangelen&layout=compact" /></div>   
-
 ---
 
 
