@@ -1,7 +1,7 @@
 # 📚 STACKS
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=foriinrangelen&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ### Languages
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css&theme=light)](https://skillicons.dev) </br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=foriinrangelen&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Frameworks
 [![My Skills](https://skillicons.dev/icons?i=nodejs&theme=light)](https://skillicons.dev)
