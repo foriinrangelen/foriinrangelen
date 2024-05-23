@@ -1,7 +1,8 @@
 # 📚 STACKS
 
 ### Languages
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts&theme=light)](https://skillicons.dev)
+<!--[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css&theme=light)](https://skillicons.dev) -->
 
 ### Frameworks
 [![My Skills](https://skillicons.dev/icons?i=nodejs&theme=light)](https://skillicons.dev)
