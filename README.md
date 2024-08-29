@@ -10,7 +10,7 @@
 [![My Skills](https://skillicons.dev/icons?i=express,nestjs,react&theme=light)](https://skillicons.dev)
 
 ### Infra
-[![My Skills](https://skillicons.dev/icons?i=aws,cloudflare,docker&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,cloudflare,docker,kubernetes&theme=light)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=linux)](https://skillicons.dev)
 
 ### DB
