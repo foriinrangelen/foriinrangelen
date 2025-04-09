@@ -23,8 +23,9 @@
 [![My Skills](https://skillicons.dev/icons?i=nodejs&theme=light)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=express,nestjs,react&theme=light)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=linux)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=aws,cloudflare,docker,kubernetes&theme=light)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,cloudflare,docker&theme=light)](https://skillicons.dev)
+<br>
+[![My Skills](https://skillicons.dev/icons?i=kubernetes,mysql,postgres,mongodb&theme=light)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=git,github,notion,vscode)](https://skillicons.dev)</br>
 
 
