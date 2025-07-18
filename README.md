@@ -19,10 +19,18 @@
 [![My Skills](https://skillicons.dev/icons?i=git,github,notion,vscode)](https://skillicons.dev)</br>
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=foriinrangelen&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
-[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs&theme=light)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=express,nestjs,react&theme=light)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=aws,cloudflare,docker&theme=light)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=express&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nestjs&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cloudflare&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postgres&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mongodb&theme=light)](https://skillicons.dev)
 
 
 
