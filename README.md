@@ -19,7 +19,7 @@
 [![My Skills](https://skillicons.dev/icons?i=git,github,notion,vscode)](https://skillicons.dev)</br>
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=foriinrangelen&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
-[![My Skills](https://skillicons.dev/icons?i=js,ts&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs&theme=light)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=express,nestjs,react&theme=light)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=aws,cloudflare,docker&theme=light)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=light)](https://skillicons.dev)
