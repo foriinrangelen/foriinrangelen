@@ -27,10 +27,11 @@
 [![My Skills](https://skillicons.dev/icons?i=react&theme=light)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=aws&theme=light)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=cloudflare&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=workers&theme=light)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=docker&theme=light)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=mysql&theme=light)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=postgres&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=sqlite&theme=light)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=mongodb&theme=light)](https://skillicons.dev)
-
+<!--[![My Skills](https://skillicons.dev/icons?i=mysql&theme=light)](https://skillicons.dev)-->
 
 
