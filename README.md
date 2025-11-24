@@ -22,16 +22,20 @@
 [![My Skills](https://skillicons.dev/icons?i=js&theme=light)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=ts&theme=light)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=nodejs&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=pnpm&theme=light)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=express&theme=light)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=nestjs&theme=light)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=react&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=jest&theme=light)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=aws&theme=light)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=cloudflare&theme=light)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=workers&theme=light)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=docker&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=prisma&theme=light)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=postgres&theme=light)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=sqlite&theme=light)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=mongodb&theme=light)](https://skillicons.dev)
+
 <!--[![My Skills](https://skillicons.dev/icons?i=mysql&theme=light)](https://skillicons.dev)-->
 
 
